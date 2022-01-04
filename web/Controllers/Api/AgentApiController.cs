@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace web.Controllers.Api
 {
-    [Route("api/[controller]")]
+    [Route("api/agent")]
     public class Agent : Controller
     {
         // GET: api/<controller>
